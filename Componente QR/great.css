@@ -1,0 +1,16 @@
+.display-great{
+    display: inherit !important;
+}
+
+.container{
+    
+    margin: auto;
+    clear: both;
+    width: 100%;
+    max-width: 280px;
+    margin-top: 10%;
+}
+
+
+
+

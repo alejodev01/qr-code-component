@@ -1,0 +1,12 @@
+.display-mini{
+    display: inherit !important;
+}
+
+.container{
+    margin: auto;
+    clear: both;
+    width: 100%;
+    max-width: 180px;
+    margin-top: 30%;
+}
+
